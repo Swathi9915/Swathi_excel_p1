@@ -23,7 +23,7 @@ This project is a **Call Centre Report Dashboard** created in **Microsoft Excel*
    - Interactive slicers for filtering data dynamically.  
 
 ## 📁 Files Included  
-- `Call centre dashboard report.xlsx : The main Excel file with all dashboards and data analysis.  
+- `Call center dashboard report.xlsx`: The main Excel file with all dashboards and data analysis.  
 - `README.md`: Documentation for this project.  
 
 ## 🛠 Tools Used  
